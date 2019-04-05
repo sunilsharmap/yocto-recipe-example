@@ -24,3 +24,8 @@ meta-new-layer/<br />
 
 * Here new-layer.bb I am downloading a git which has files required for
 helloworld.
+
+* meta-new-layer is a simple `helloworld` recipe which downloads the files from<br />
+`another github` and using autotools builds the helloword example.<br />
+
+* meta-local-libnfc is another exapmle of building someone else repo, here libnfc is building.
