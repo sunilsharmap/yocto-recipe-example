@@ -26,6 +26,6 @@ meta-new-layer/<br />
 helloworld.
 
 * meta-new-layer is a simple `helloworld` recipe which downloads the files from<br />
-`another github` and using autotools builds the helloword example.<br />
+`another github<https://github.com/sunilsharmap/yocto-example.git>` and using autotools builds the helloword example.<br />
 
 * meta-local-libnfc is another exapmle of building someone else repo, here libnfc is building.
