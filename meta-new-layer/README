@@ -1,0 +1,10 @@
+This is an example illustrating the new layer creation in yocto
+and writing recipe to build the files and making the build part
+of the final image.
+
+I use Helloworld as an example. After adding layer, building the
+helloworld, the executalble will be part if the image. You can
+run helloworld to get console print `Hello World!!`.
+
+NOTE: Using this example, you can add your recipe of interesst
+can be built and add it to the rootfs of the image.
