@@ -10,7 +10,7 @@ run helloworld to get console print `Hello World!!`.<br />
 NOTE: Using this example, you can add your recipe of interesst<br />
 can be built and add it to the rootfs of the image.<br />
 
-* Creare directories and files as shown below.<br />
+* Create directories and files as shown below.<br />
 Directory structure from poky/<br />
 meta-new-layer/<br />
 ├── conf<br />
