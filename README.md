@@ -12,6 +12,7 @@ can be built and add it to the rootfs of the image.<br />
 
 * Create directories and files as shown below.<br />
 Directory structure from poky/<br />
+```
 meta-new-layer/<br />
 ├── conf<br />
 │   └── layer.conf<br />
@@ -21,7 +22,7 @@ meta-new-layer/<br />
 └── recipes-new-layer<br />
     └── new-layer<br />
         └── new-layer.bb<br />
-
+```
 * Here new-layer.bb I am downloading a git which has files required for
 helloworld.
 
